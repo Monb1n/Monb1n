@@ -1,0 +1,9 @@
+{
+	"ip":"Monb1n.aternos.me",
+	"port": "28841",
+	"name": "KAPTENLudfi06",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
